@@ -1,0 +1,6 @@
+C:\Users\marcio.morais\Desktop\22-10\website\bin\website.dll.config
+C:\Users\marcio.morais\Desktop\22-10\website\bin\website.dll
+C:\Users\marcio.morais\Desktop\22-10\website\bin\website.pdb
+C:\Users\marcio.morais\Desktop\22-10\website\obj\Debug\website.csprojResolveAssemblyReference.cache
+C:\Users\marcio.morais\Desktop\22-10\website\obj\Debug\website.dll
+C:\Users\marcio.morais\Desktop\22-10\website\obj\Debug\website.pdb

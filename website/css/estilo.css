@@ -1,0 +1,68 @@
+﻿body {
+    margin:0;
+}
+
+.pagina {
+    width:100%;
+    max-width:1175px;
+    height:auto;
+    margin:0 auto; /*Centraliza a página*/
+}
+
+.bloco-1{
+    width:1175px;
+    height:350px;
+    background:#e90072;
+}
+
+.bloco-2{
+    width:375px;
+    height:150px;
+    background:#e90072;
+}
+
+.flutuar{
+    float:left;
+}
+
+.espaco-esquerda{
+    margin-left:25px;
+}
+
+.espaco-acima{
+    margin-top:25px;
+}
+
+.ajuste{
+    clear:both;
+}
+
+.bloco-3{
+    width:1175px;
+    height:150px;
+    background:#e90072;
+}
+
+.bloco-4{
+    width:275px;
+    height:625px;
+    background:#e90072;
+}
+
+.bloco-5{
+    width:200px;
+    height:300px;
+    background:#e90072;
+}
+
+.bloco-6{
+    width:1175px;
+    height:200px;
+    background:#e90072;
+}
+
+.bloco-7{
+    width:275px;
+    height:300px;
+    background:#e90072;
+}
